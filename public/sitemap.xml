@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Page -->
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Product Detail Pages -->
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/product/double-header-napkin</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/product/single-embossing-napkin</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/product/double-decker-napkin</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/product/semi-auto-toilet-roll</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/product/fully-auto-toilet-roll</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/product/l-fold-dispenser</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/product/foil-rewinding</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/product/three-color-flexo</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-zxncjpgfyfw4spyple2uzq-291374866791.asia-east1.run.app/product/automatic-sealing</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
